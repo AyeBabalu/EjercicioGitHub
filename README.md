@@ -6,4 +6,4 @@
 
   Para ejecutar el ejercicio, debes poner:
 
-  '''npm install react''''
+  ```npm install react```
