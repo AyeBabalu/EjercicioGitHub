@@ -5,3 +5,5 @@
   Para ejecutar el ejercicio, se debe poner:
 
   ```npm install react```
+
+Ejercicio 2
